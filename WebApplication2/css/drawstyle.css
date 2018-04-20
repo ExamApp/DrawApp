@@ -1,0 +1,108 @@
+.group_box{
+    /*border: 1px solid red;*/
+}
+
+.group_box_index{
+    /*border: 1px solid #f6f2f2;*/
+    margin: 3px;
+}
+
+.pot_team{
+    /*border: 2px solid blue;*/
+    margin: 3px;
+}
+
+
+.group_box_index_header{
+    text-align: left;
+}
+
+.group_box_index_a1 {
+    /*background-color: green;
+    color: white;
+    margin: 2px;
+    width: 12px;
+    min-width:4em;
+    display:inline-block;*/
+    /*background-image: url('../img/teamna.png');*/
+}
+.group_box_index_a2 {
+    margin: 2px;
+    width: 12em;
+    min-width: 12em;
+    height: 2em;
+    display: inline-block;
+    background-color: #f6f5f3;
+    text-align: left;
+    color: blue;
+}
+
+.pot{
+    text-align: center;
+    border: 1px solid palevioletred;
+    background-color: palevioletred;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.pot_team_default {
+    background-color: #f6f5f3;
+    color: blue;
+    margin: 2px;
+    width: 12em;
+    min-width: 12em;
+    height:2em;
+    display: inline-block;
+    font-weight: bold;
+    /*padding-left: 4em;
+    padding-right: 4em;*/
+}
+
+.pot_team_animate {
+    color: black;
+    background-color: #ffcd44;
+}
+
+.pot_team_done{
+    opacity: 0.5;
+    color: black;
+    /*background-color: #9a9ca3;*/
+}
+
+.pot_group_done{
+      color: blue;
+      background-color: white;
+}
+
+.pot_container{
+    margin-top: 4em;
+    position: relative;
+}
+
+.grp_card {
+    margin-top: 3em;
+    margin: auto;
+    width: 78%;
+    background-color: white;
+}
+
+.grp_card_teams {
+    border: 1px solid blue;
+    background-color: white;
+}
+
+.grp_card_animate {
+    /*border: 1px solid red;*/
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+}
+.grp_card_animate_reset {
+    border: 1px solid blue;
+    background-color: white;
+}
+
+.group_header_text {
+    font-weight: bold;
+}

@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="~/js/angular.min.js"></script>
+<script src="~/js/drawappv1.0.js"></script>
+
+@*<div ng-app="drawApp" ng-controller="drawController">
+        {{ draw }}
+    </div>*@
+
+<div class="container-fluid">
+    <section ng-app="drawApp" ng-controller="drawController">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div ng-repeat="grp in draw.groups" class="col-md-4 group_box">
+                        <div class="grp_card">
+                            <div class="group_box_index group_box_index_header" id="G{{grp.id}}">
+                                <div class="group_header_text">{{grp.name}}</div>
+                                <div class="grp_card_teams">
+                                    <div class="group_box_index" ng-repeat="team in grp.team" id="G{{grp.id}}_{{$index}}">
+                                        <span class="group_box_index_a1">
+                                            <img src="~/img/Flag-3-icon.png" style="height:39px;width:39px" />
+                                        </span>
+                                        <span class="group_box_index_a2" id="{{grp.abbr}}-{{$index + 1}}">X</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="pot_container">
+            <div class="row">
+                <div ng-repeat="pot in draw.pots" class="col-md-3">
+                    <div id="pot-{{pot.C}}" class="pot">{{pot.N}}</div>
+                    <div ng-repeat="teamName in pot.T" class="pot_team" id="P{{pot.C}}_{{teamName.C}}">
+                        <span class="group_box_index_a1">
+                            <img src="~/img/Flag-3-icon.png" style="height:39px;width:39px" />
+                        </span>
+                        <span class="pot_team_default" id="T-{{teamName.C}}">{{teamName.N}}</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+</div>
+<link href="~/css/drawstyle.css" rel="stylesheet" />
+<script src="~/js/jquery-1.8.3.js"></script>
+

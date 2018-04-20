@@ -1,0 +1,281 @@
+{
+  "C": {
+    "C": "0",
+    "N": "UEFA Champions League",
+    "V": "GRIMALDI FORUM, MONACO",
+    "D": "2017-08-24T00:00:00",
+    "S": "2018",
+    "P": "Group Stage",
+    "PC": "0"
+  },
+  "P": [
+    {
+      "C": "0",
+      "N": "POT 1",
+      "TT": 8,
+      "T": [
+        {
+          "C": "1",
+          "O": 0,
+          "N": "Real Madrid",
+          "D": 7,
+          "NA": "REA",
+          "A": "REA",
+          "P": 0,
+          "G": "7"
+        },
+        {
+          "C": "2",
+          "O": 0,
+          "N": "FC Bayern München",
+          "D": 4,
+          "NA": "GER",
+          "A": "GER",
+          "P": 0,
+          "G": "1"
+        },
+        {
+          "C": "9",
+          "O": 0,
+          "N": "Chelsea FC",
+          "D": 2,
+          "NA": "ENG",
+          "A": "GBR",
+          "P": 0,
+          "G": "2"
+        },
+        {
+          "C": "100",
+          "O": 0,
+          "N": "Juventus Football Club",
+          "D": 8,
+          "NA": "ITA",
+          "A": "ITA",
+          "P": 0,
+          "G": "3"
+        },
+        {
+          "C": "156",
+          "O": 0,
+          "N": "SL Benfica",
+          "D": 3,
+          "NA": "POR",
+          "A": "POR",
+          "P": 0,
+          "G": "0"
+        },
+        {
+          "C": "132",
+          "O": 0,
+          "N": "AS Monaco FC",
+          "D": 5,
+          "NA": "FRA",
+          "A": "FRA",
+          "P": 0,
+          "G": "6"
+        }
+      ]
+    },
+    {
+      "C": "1",
+      "N": "POT 2",
+      "TT": 8,
+      "T": [
+        {
+          "C": "5",
+          "O": 0,
+          "N": "FC Barcelona",
+          "D": 16,
+          "NA": "ESP",
+          "A": "ESP",
+          "P": 0,
+          "G": "3"
+        },
+        {
+          "C": "124",
+          "O": 0,
+          "N": "Club Atlético de Madrid",
+          "D": 10,
+          "NA": "ESP",
+          "A": "ESP",
+          "P": 0,
+          "G": "2"
+        },
+        {
+          "C": "34",
+          "O": 0,
+          "N": "Paris Saint-Germain",
+          "D": 12,
+          "NA": "FRA",
+          "A": "FRA",
+          "P": 0,
+          "G": "1"
+        },
+        {
+          "C": "4",
+          "O": 0,
+          "N": "Borussia Dortmund",
+          "D": 15,
+          "NA": "GER",
+          "A": "GER",
+          "P": 0,
+          "G": "7"
+        },
+        {
+          "C": "1880",
+          "O": 0,
+          "N": "Sevilla FC",
+          "D": 14,
+          "NA": "ESP",
+          "A": "ESP",
+          "P": 0,
+          "G": "4"
+        },
+        {
+          "C": "584",
+          "O": 0,
+          "N": "Manchester City FC",
+          "D": 13,
+          "NA": "ENG",
+          "A": "GBR",
+          "P": 0,
+          "G": "5"
+        }
+      ]
+    },
+    {
+      "C": "2",
+      "N": "POT 3",
+      "TT": 8,
+      "T": [
+        {
+          "C": "2304",
+          "O": 0,
+          "N": "SSC Napoli",
+          "D": 24,
+          "NA": "ITA",
+          "A": "ITA",
+          "P": 0,
+          "G": "5"
+        },
+        {
+          "C": "127",
+          "O": 0,
+          "N": "Tottenham Hotspur FC",
+          "D": 21,
+          "NA": "ENG",
+          "A": "GBR",
+          "P":2,
+          "G": "7"
+        },
+        {
+          "C": "219",
+          "O": 0,
+          "N": "FC Basel 1893",
+          "D": 18,
+          "NA": "SUI",
+          "A": "SUI",
+          "P": 0,
+          "G": "0"
+        },
+        {
+          "C": "21",
+          "O": 0,
+          "N": "Olympiacos FC",
+          "D": 23,
+          "NA": "GRE",
+          "A": "GRE",
+          "P": 0,
+          "G": "3"
+        },
+        {
+          "C": "184",
+          "O": 0,
+          "N": "RSC Anderlecht",
+          "D": 17,
+          "NA": "BEL",
+          "A": "BEL",
+          "P": 0,
+          "G": "1"
+        },
+        {
+          "C": "234",
+          "O": 0,
+          "N": "Liverpool FC",
+          "D": 20,
+          "NA": "ENG",
+          "A": "GBR",
+          "P": 0,
+          "G": "4"
+        }
+      ]
+    },
+    {
+      "C": "3",
+      "N": "POT 4",
+      "TT": 8,
+      "T": [
+        {
+          "C": "156",
+          "O": 0,
+          "N": "Celtic FC",
+          "D": 29,
+          "NA": "SCO",
+          "A": "SCO",
+          "P": 0,
+          "G": "1"
+        },
+        {
+          "C": "127",
+          "O": 0,
+          "N": "PFC CSKA Moskva",
+          "D": 30,
+          "NA": "RUS",
+          "A": "RUS",
+          "P": 0,
+          "G": "0"
+        },
+        {
+          "C": "219",
+          "O": 0,
+          "N": "Sporting Clube de Portugal",
+          "D": 28,
+          "NA": "POR",
+          "A": "POR",
+          "P": 0,
+          "G": "3"
+        },
+        {
+          "C": "245",
+          "O": 0,
+          "N": "APOEL FC",
+          "D": 32,
+          "NA": "CYP",
+          "A": "CYP",
+          "P": 0,
+          "G": "7"
+        },
+        {
+          "C": "2",
+          "O": 0,
+          "N": "Feyenoord",
+          "D": 27,
+          "NA": "NED",
+          "A": "NED",
+          "P": 0,
+          "G": "5"
+        },
+        {
+          "C": "34",
+          "O": 0,
+          "N": "NK Maribor",
+          "D": 31,
+          "NA": "SVN",
+          "A": "SVN",
+          "P": 0,
+          "G": "4"
+        }
+      ]
+    }
+  ]
+}
